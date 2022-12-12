@@ -1,0 +1,32 @@
+Entree: Sirloin Steak. A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked. 820
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter. 270
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula. 90
+Dessert: Chocolate Cake. Low calorie chocolate cake. 175
+
+Calorie Total: 1355
+Total price: 41.0
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt. 560
+Side: Rice. Plain rice. 160
+Salad: Potato Salad. Potato Salad. 195
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream. 250
+
+Calorie Total: 1165
+Total price: 22.0
+
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven. 430
+Side: Quinoa. Quinoa. 140
+Salad: Soy bean sprout with corn. Soy bean sprout with corn and olives. 210
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries. 200
+
+Calorie Total: 980
+Total price: 25.0
+
+Entree: Griller Steak. Carefully selected prime quality steak griller to the point of your preference. 740
+Side: Quinoa. Quinoa. 140
+Salad: Quinoa. Quinoa lightly salted. 120
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries. 200
+
+Calorie Total: 1200
+Total price: 28.0
+
